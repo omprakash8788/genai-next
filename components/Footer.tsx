@@ -1,9 +1,5 @@
-import React from 'react'
-
 const Footer = () => {
-  return (
-    <div>Footer</div>
-  )
-}
+  return <footer className="text-center p-3 border-t" />;
+};
 
-export default Footer
+export default Footer;
