@@ -1,5 +1,3 @@
-// import { Card } from '@/components/ui/card';
-
 import { Card } from "../ui/card";
 
 const ChatBubble = ({ role, text, className = '', width = 'w-fit max-w-md', ...rest }) => {
